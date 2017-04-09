@@ -1,17 +1,22 @@
 # Site settings
 title: Yeara Kozlov | Computer Graphics Lab - ETH Zürich,  Disney Research Zürich
-h1_tag_text: 
+
 
 email: yeara.kozlov [at] disneyresearch.com
 
 baseurl: http://www.yearakozlov.com
-
 url: http://www.yearakozlov.com
-twitter_username: yeara
-github_username:  yeara
+
 timezone : Europe/Berlin
 encoding : utf-8
 
 # Build settings
 markdown: kramdown
+
+
+exclude: ["README.md"]
+
 permalink: pretty
+
+sass:
+  style: compressed

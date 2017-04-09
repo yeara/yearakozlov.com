@@ -1,16 +1,22 @@
 Summary
 -------
 
-I'm a PhD student at the Computer Graphics Lab in ETH Zürich, jointly affiliated with the Capture and Effects group in Disney Research Zürich. 
+I'm a joint PhD student at the [Computer Graphics Lab ](https://graphics.ethz.ch/) at ETH Zürich and [Disney Research](http://www.disneyresearch.com/).
 
-I recieved my M.Sc in Visual Computing from Saarland University, Germany. My Master's thesis topic is Analysis of Energy Regularization for Harmonic Surface Deformation, which was written in affiliation with the Department of Computer Graphics in Max Planck Institute for Informatics, Saarbrücken, Germany.
+I am part of the Capture and Effects group at Disney Research Zurich. My research interests include physically based simulation, computer vision and geometry processing.
 
-Previously I graduated from the Technion, Israel with a B.Sc in Physics. 
+I received my M.Sc in Visual Computing from Saarland University, Germany. My Master's was written in affiliation with the Department of Computer Graphics in Max Planck Institute for Informatics, Saarbrücken, Germany. Previously I graduated from the Technion, Israel with a B.Sc in Physics. 
 
-My research interests include geometry processing, computer vision and their intersection.   
+I am one of the co-leaders of [CSNOW](http://www.frauen.inf.ethz.ch), the Network of Women in Computer Science at ETH Zürich.
 
 Publications
 -------------
++  Y. Kozlov, D. Bradley, M. Bächer, B. Thomaszewski, T. and M. Gross <br>
+<b> Enriching Facial Blendshape Rigs with Physical Simulation </b> <br>
+<i> To appear: Proceedings of Eurographics (Lyon,France,, April 24-28, 2017), Computer Graphics Forum, vol. 36, no. 2  </i> <br>
+[[website]](https://cgl.ethz.ch/publications/papers/paperKoz17a.php)
+
+
 +  A. Bermano, T. Beeler, Y. Kozlov, D. Bradley, B. Bickel, M. Gross <br>
 <b> Detailed Spatio-Temporal Reconstruction of Eyelids </b>	<br>
 <i> Proceedings of ACM SIGGRAPH (Los Angeles, USA, August 9-13, 2015) </i> <br>
@@ -39,10 +45,10 @@ Academic CV
 -----------
 [yeara_kozlov_cv.pdf](pdf/yeara_kozlov_cv.pdf)
 
-
 Links
 -----
 + [CGL](https://graphics.ethz.ch/)
-+ [Disney Research Zurich](http://www.disneyresearch.com/)
++ [Disney Research](http://www.disneyresearch.com/)
 + [Linkedin](http://de.linkedin.com/pub/yeara-kozlov/4/aa9/24a)
 + [Github](http://github.com/yeara)
++ [CSNOW](http://www.frauen.inf.ethz.ch)
