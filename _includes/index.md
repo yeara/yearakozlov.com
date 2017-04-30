@@ -1,31 +1,25 @@
-Summary
--------
+I'm a joint PhD student at the [Computer Graphics Lab](https://graphics.ethz.ch/) at [ETH Zürich](http://www.ethz.ch) and at [Disney Research](http://www.disneyresearch.com/).
 
-I'm a joint PhD student at the [Computer Graphics Lab ](https://graphics.ethz.ch/) at ETH Zürich and [Disney Research](http://www.disneyresearch.com/).
+I am supervised by Prof. Markus Gross from CGL and I belong to the [Capture and Effects](https://www.disneyresearch.com/research-labs/disney-research-zurich/dr-zurich-capture-effects/) group at Disney Research, led by [Dr. Thabo Beeler](https://graphics.ethz.ch/~dbeeler/). My research interests include capture, physically based simulation, computer vision and geometry processing.
 
-I am part of the Capture and Effects group at Disney Research Zurich. My research interests include physically based simulation, computer vision and geometry processing.
-
-I received my M.Sc in Visual Computing from Saarland University, Germany. My Master's was written in affiliation with the Department of Computer Graphics in Max Planck Institute for Informatics, Saarbrücken, Germany. Previously I graduated from the Technion, Israel with a B.Sc in Physics. 
-
-I am one of the co-leaders of [CSNOW](http://www.frauen.inf.ethz.ch), the Network of Women in Computer Science at ETH Zürich.
+I received my M.Sc in Visual Computing from Saarland University, Germany. My Master's thesis was written in affiliation with the Department of Computer Graphics in Max Planck Institute for Informatics, supervised by Dr. Tino Weinkauf. I graduated from the Technion, Israel with a B.Sc in Physics. 
 
 Publications
 -------------
 +  Y. Kozlov, D. Bradley, M. Bächer, B. Thomaszewski, T. and M. Gross <br>
 <b> Enriching Facial Blendshape Rigs with Physical Simulation </b> <br>
 <i> To appear: Proceedings of Eurographics (Lyon,France,, April 24-28, 2017), Computer Graphics Forum, vol. 36, no. 2  </i> <br>
-[[website]](https://cgl.ethz.ch/publications/papers/paperKoz17a.php)
-
+[[pdf]](pdf/kozlov2017.pdf) [[video]](video/koz17a.mp4) [[cgl website]](https://cgl.ethz.ch/publications/papers/paperKoz17a.php) [[disney research website]](https://www.disneyresearch.com/publication/enriching-facial-blendshape-rigs-with-physical-simulation/) [[bib]](https://cgl.ethz.ch/Downloads/Publications/Papers/2017/Koz17a/Koz17a.bib)
 
 +  A. Bermano, T. Beeler, Y. Kozlov, D. Bradley, B. Bickel, M. Gross <br>
 <b> Detailed Spatio-Temporal Reconstruction of Eyelids </b>	<br>
 <i> Proceedings of ACM SIGGRAPH (Los Angeles, USA, August 9-13, 2015) </i> <br>
-[[pdf]](pdf/detailed_spatio_temporal_reconstruction_of_eyelids.pdf) [[website]](http://www.disneyresearch.com/publication/eyelidreconstruction/)
+[[pdf]](pdf/detailed_spatio_temporal_reconstruction_of_eyelids.pdf) [[cgl website]](https://cgl.ethz.ch/publications/papers/paperber15a.php) [[disney research website]](http://www.disneyresearch.com/publication/eyelidreconstruction/) [[bib]](https://cgl.ethz.ch/Downloads/Publications/Papers/2015/ber15a/ber15a.bib)
 
 + Kozlov, Y., Esturo, J. M., Seidel, H. P., & Weinkauf, T. <br>
 <b> Regularized Harmonic Surface Deformation. </b>  <br>
 <i> Technical report: arXiv preprint arXiv:1408.3326.</i> <br>
-[[pdf]](pdf/regularized_harmonics_surface_deformation.pdf) [[website]](http://arxiv.org/abs/1408.3326)
+[[pdf]](pdf/regularized_harmonics_surface_deformation.pdf) [[arXiv]](http://arxiv.org/abs/1408.3326)
 
 + Kozlov, Y. <br>
 <b>Analysis of Energy Regularization for Harmonic Surface Deformation. </b> <br> 
