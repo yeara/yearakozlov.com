@@ -1,8 +1,8 @@
 I'm finishing my PhD studies at the [Computer Graphics Lab](https://graphics.ethz.ch/) at [ETH Zürich](http://www.ethz.ch) and [Disney Research\|Studios](https://studios.disneyresearch.com/). My research focused on capturing the physics of human faces. I was supervised by Dr. Thabo Beeler and Dr. Derek Bradley from the Capture and Effects group at Disney Research\|Studios, and Prof. Markus Gross of the Computer Graphics Lab at ETH Zürich. My research interests include human performance capture, machine learning and physically based simulation. Previously, I completed a M.Sc. in Visual Computing at Saarland University and Max Planck Institute for Informatics in Saarbrücken, Germany. I received a B.Sc. in Physics from the Technion, Israel.
 
-Throughout my PhD studies I was one of the co-leaders of [CSNOW](https://csnow.inf.ethz.ch/), the Network of Women in Computer Science of the Computer Science Department at ETH Zürich. 
+Throughout my PhD studies I was one of the co-leaders of [CSNOW](https://csnow.inf.ethz.ch/), the Network of Women in Computer Science of the Computer Science Department at ETH Zürich. During my three year term, I overhauled CSNOW's activities, offerings and public identity and saw an increase of up to 250% of participation in our events.
 
-Outside my work I run up and down mountains, rock climb and ski tour. During 2019 I built a campervan to have a good base for these activities. Some of my recent adventures are documented on [instagram](https://www.instagram.com/yearak/).
+Outside work I practice mountain sports to a high level and I built a campervan, both are documented on [instagram](https://www.instagram.com/yearak/).
 
 Publications
 -------------
