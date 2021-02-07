@@ -1,8 +1,17 @@
-I'm finishing my PhD studies at the [Computer Graphics Lab](https://graphics.ethz.ch/) at [ETH Zürich](http://www.ethz.ch) and [Disney Research\|Studios](https://studios.disneyresearch.com/). My research focused on capturing the physics of human faces. I was supervised by Dr. Thabo Beeler and Dr. Derek Bradley from the Capture and Effects group at Disney Research\|Studios, and Prof. Markus Gross of the Computer Graphics Lab at ETH Zürich. My research interests include human performance capture, machine learning and physically based simulation. Previously, I completed a M.Sc. in Visual Computing at Saarland University and Max Planck Institute for Informatics in Saarbrücken, Germany. I received a B.Sc. in Physics from the Technion, Israel.
+I'm a PhD graduate in the area of computer graphics and vision. I studied at the [Computer Graphics Lab](https://graphics.ethz.ch/) at [ETH Zürich](http://www.ethz.ch) and [Disney Research\|Studios](https://studios.disneyresearch.com/). My research focused on capturing the physics of human faces. I was supervised by Dr. Thabo Beeler and Dr. Derek Bradley from the Capture and Effects group at Disney Research\|Studios, and Prof. Markus Gross of the Computer Graphics Lab at ETH Zürich. My research focused on optimizing physically-based graphics models from human performance capture data. 
+Previously, I completed a M.Sc. in Visual Computing at Saarland University and Max Planck Institute for Informatics in Saarbrücken, Germany. I received a B.Sc. in Physics from the Technion, Israel.
 
-Throughout my PhD studies I was one of the co-leaders of [CSNOW](https://csnow.inf.ethz.ch/), the Network of Women in Computer Science of the Computer Science Department at ETH Zürich. During my three year term, I overhauled CSNOW's activities, offerings and public identity and saw an increase of up to 250% of participation in our events.
+I am currently working as a computer vision engineer, working on low-level, real-time computer vision algorithms. 
 
-Outside work I practice mountain sports to a high level and I built a campervan, both are documented on [instagram](https://www.instagram.com/yearak/).
+Throughout my PhD studies I was one of the co-leaders of [CSNOW](https://csnow.inf.ethz.ch/), the Network of Women in Computer Science of the Computer Science Department at ETH Zürich. 
+
+Besides work, I practice mountain sports to a high level, including sky running, ski touring and climbing. I also built a campervan. I post highlights on [instagram](https://www.instagram.com/yearak/).
+
+Professional Resources
+-----
++ [CV](pdf/yeara_kozlov_cv.pdf)
++ [LinkedIn](http://de.linkedin.com/pub/yeara-kozlov/4/aa9/24a)
++ [Github](http://github.com/yeara)
 
 Publications
 -------------
@@ -34,19 +43,13 @@ Technical Reports
 [[pdf]](pdf/analysis_of_energy_regularization_for_harmonic.pdf)
  -->
 
-[CV](pdf/yeara_kozlov_cv.pdf)
------------
-
 Previous Projects
 --------
-+ [Persistence1D](http://people.mpi-inf.mpg.de/~weinkauf/notes/persistence1d.html) - one dimensional local extrema features extraction in O(nlogn).  
++ [Persistence1D](http://www.csc.kth.se/~weinkauf/notes/persistence1d.html) - one dimensional local extrema features extraction in O(nlogn).  
 
 Teaching Assistance
 -------------------
-+ [IFMP - HS 15](ifmp15/index.html)
-+ [Informatics I - FS 15](https://graphics.ethz.ch/teaching/info1_15/home.php)
++ IFMP - HS 15
++ Informatics I - FS 15
 
-Links
------
-+ [LinkedIn](http://de.linkedin.com/pub/yeara-kozlov/4/aa9/24a)
-+ [Github](http://github.com/yeara)
+
